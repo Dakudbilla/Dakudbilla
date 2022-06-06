@@ -4,7 +4,7 @@
 <h1 align="center">Hi there👋, I am Akudbilla Daniel</h1>
 <h3 align="center">I a passionate developer who wants to make the world a better place with technology. I love the web. I love Javascript</h3>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Nextjs**, **laravel**, **Python**
 
 - 💬 Ask me about **react,nextjs**
 
