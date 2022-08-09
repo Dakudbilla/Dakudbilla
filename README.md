@@ -2,7 +2,7 @@
 <img src="header.png" alt="myheader"/>
 
 <h1 align="center">Hi there👋, I am Akudbilla Daniel</h1>
-<h3 align="center">I am passionate developer who wants to make the world a better place with technology. I love the web. I love Javascript</h3>
+<h3 align="center">Innovative, hardworking and passionate full stack developer with over 2years experience in architecting secure, scalable, proficient and user-friendly web applications. Exceptionally good in translating designs to applications. Equipped with a record of success in consistently identifying problems and solving them using novel means. Proficient in developing databases with SQL and NoSQL databases, creating responsive user interfaces, writing clean and testable codes</h3>
 
 - 🌱 I’m currently learning **AWS cloud**
 - 💬 Ask me about **react,nextjs**
