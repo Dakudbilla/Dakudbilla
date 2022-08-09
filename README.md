@@ -5,7 +5,7 @@
 <h5 align="center">Innovative, hardworking and passionate full stack developer with over 2years experience in architecting secure, scalable, proficient and user-friendly web applications. Exceptionally good in translating designs to applications. Equipped with a record of success in consistently identifying problems and solving them using novel means. Proficient in developing databases with SQL and NoSQL databases, creating responsive user interfaces, writing clean and testable codes</h5>
 
 - 🌱 I’m currently learning **AWS cloud**
-- 💬 Ask me about **react,nextjs**
+- 💬 Ask me about **react,nextjs**,**Expressjs**,**Laravel**
 - 📫 How to reach me **akuddev@gmail.com**
 - ⚡ Fun fact **You are wonderful.**
 
