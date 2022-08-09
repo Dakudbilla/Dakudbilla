@@ -4,12 +4,9 @@
 <h1 align="center">Hi there👋, I am Akudbilla Daniel</h1>
 <h3 align="center">I am passionate developer who wants to make the world a better place with technology. I love the web. I love Javascript</h3>
 
-- 🌱 I’m currently learning **Nextjs**, **laravel**, **Python**
-
+- 🌱 I’m currently learning **AWS cloud**
 - 💬 Ask me about **react,nextjs**
-
 - 📫 How to reach me **akuddev@gmail.com**
-
 - ⚡ Fun fact **You are wonderful.**
 
 <h3 align="left">Connect with me:</h3>
